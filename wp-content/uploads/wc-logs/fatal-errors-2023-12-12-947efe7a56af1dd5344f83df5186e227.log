@@ -1,0 +1,36 @@
+2023-12-12T23:19:27+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\OSPanel\domains\wooeshop.loc\wp-content\themes\Shop\header.php:113
+Stack trace:
+#0 C:\OSPanel\domains\wooeshop.loc\wp-includes\template.php(790): require_once()
+#1 C:\OSPanel\domains\wooeshop.loc\wp-includes\template.php(725): load_template()
+#2 C:\OSPanel\domains\wooeshop.loc\wp-includes\general-template.php(48): locate_template()
+#3 C:\OSPanel\domains\wooeshop.loc\wp-content\themes\Shop\front-page.php(1): get_header()
+#4 C:\OSPanel\domains\wooeshop.loc\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wooeshop.loc\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wooeshop.loc\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown в C:\OSPanel\domains\wooeshop.loc\wp-content\themes\Shop\header.php на строке 113
+
+2023-12-12T23:20:40+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\OSPanel\domains\wooeshop.loc\wp-content\themes\Shop\header.php:113
+Stack trace:
+#0 C:\OSPanel\domains\wooeshop.loc\wp-includes\template.php(790): require_once()
+#1 C:\OSPanel\domains\wooeshop.loc\wp-includes\template.php(725): load_template()
+#2 C:\OSPanel\domains\wooeshop.loc\wp-includes\general-template.php(48): locate_template()
+#3 C:\OSPanel\domains\wooeshop.loc\wp-content\themes\Shop\front-page.php(1): get_header()
+#4 C:\OSPanel\domains\wooeshop.loc\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wooeshop.loc\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wooeshop.loc\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown в C:\OSPanel\domains\wooeshop.loc\wp-content\themes\Shop\header.php на строке 113
+
+2023-12-12T23:22:36+00:00 CRITICAL Uncaught Error: Call to undefined function aws_get_search_form() in C:\OSPanel\domains\wooeshop.loc\wp-content\themes\Shop\header.php:113
+Stack trace:
+#0 C:\OSPanel\domains\wooeshop.loc\wp-includes\template.php(790): require_once()
+#1 C:\OSPanel\domains\wooeshop.loc\wp-includes\template.php(725): load_template()
+#2 C:\OSPanel\domains\wooeshop.loc\wp-includes\general-template.php(48): locate_template()
+#3 C:\OSPanel\domains\wooeshop.loc\wp-content\themes\Shop\woocommerce\archive-product.php(1): get_header()
+#4 C:\OSPanel\domains\wooeshop.loc\wp-includes\template-loader.php(106): include('C:\\OSPanel\\doma...')
+#5 C:\OSPanel\domains\wooeshop.loc\wp-blog-header.php(19): require_once('C:\\OSPanel\\doma...')
+#6 C:\OSPanel\domains\wooeshop.loc\index.php(17): require('C:\\OSPanel\\doma...')
+#7 {main}
+  thrown в C:\OSPanel\domains\wooeshop.loc\wp-content\themes\Shop\header.php на строке 113
+
